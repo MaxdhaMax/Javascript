@@ -2,7 +2,7 @@
 
 Apa itu variabel dalam bahasa pemrograman ?
 
-Variabel adalah tempat penyimpanan dimana penyimpanan itu diberi nama, dimana nama yang digunakan harus unik.
+Variabel adalah tempat penyimpanan di mana penyimpanan itu diberi nama, di mana nama yang digunakan harus unik.
 
 ## Jenis-Jenis Mendeklarasikan Variabel
 
@@ -62,7 +62,7 @@ Lihat meme ini:
 
 Sumber meme [original](https://twitter.com/ddprrt/status/1074955395528040448).
 
-> Catatan: Semua tipe data bisa menggunakan semua tiga jenis variabel yang ada di JavaScript
+> Catatan: Ketiga jenis variabel bisa menggunakan semua jenis tipe data yang ada di JavaScript
 
 Contoh
 
